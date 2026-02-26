@@ -1,24 +1,24 @@
 # Hi 👋, I'm Aishwarya Bhanage
 
-### Enhancing AI Systems with Real-World Impact 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+%7C+Multimodal+AI+Engineer;RAG+%7C+LLM+%7C+VLM+Systems;Building+Production+AI+Pipelines+🚀&center=true&width=600&height=45">
+</p>
 
-- 🔭 Currently building **Multimodal & RAG AI systems**
-  
-- 🌱 Learning **advanced LLM and VLM optimization**
-  
-- 👯 Open to collaborate on **GenAI / Applied ML projects**
-  
-- 💬 Ask me about **RAG, LangGraph, Multimodal AI**
-  
-- 🎓 MS Data Science @ Stony Brook University
-  
-- 💼 Ex-Accenture | AI/ML Engineer
-  
-- Graduate Student Organization | Traesurer - @SBU
+### 🚀 Enhancing AI Systems with Real-World Impact
 
-------  Bridging Machine Intelligence and Human Learning   ------
+- 🔭 Building **Multimodal & RAG AI systems**  
+- 🌱 Exploring **LLM and VLM optimization**  
+- 🤝 Open to **GenAI / Applied ML collaborations**  
+- 💬 Ask me about **RAG • LangGraph • Multimodal AI**  
+- 🎓 MS Data Science @ Stony Brook University  
+- 💼 Ex-Accenture | AI/ML Engineer  
+- 🏛️ GSO Treasurer @ SBU  
 
 ---
+
+<p align="center">
+❤️ Bridging Machine Intelligence and Human Learning
+</p>
 
 ### 🌐 Portfolio
 🔗 https://aishwaryabhanage.github.io/
