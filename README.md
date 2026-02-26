@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aishwarya Bhanage
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+%7C+Multimodal+AI+Engineer;RAG+%7C+LLM+%7C+VLM+Systems;Building+Production+AI+Pipelines+🚀&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Scientist;AI+Engineer;Building+Production+AI+Systems+🚀&center=true&width=600&height=45">
 </p>
 
 ### 🚀 Enhancing AI Systems with Real-World Impact
