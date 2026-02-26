@@ -3,11 +3,20 @@
 ### Enhancing AI Systems with Real-World Impact 🚀
 
 - 🔭 Currently building **Multimodal & RAG AI systems**
+  
 - 🌱 Learning **advanced LLM and VLM optimization**
+  
 - 👯 Open to collaborate on **GenAI / Applied ML projects**
+  
 - 💬 Ask me about **RAG, LangGraph, Multimodal AI**
+  
 - 🎓 MS Data Science @ Stony Brook University
+  
 - 💼 Ex-Accenture | AI/ML Engineer
+  
+- Graduate Student Organization | Traesurer - @SBU
+
+------Bridging Machine Intelligence and Human Learning------
 
 ---
 
