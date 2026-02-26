@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-❤️ Bridging Machine Intelligence and Human Learning
+Bridging Machine Learning and Human Intelligence
 </p>
 
 ### 🌐 Portfolio
