@@ -16,7 +16,7 @@
   
 - Graduate Student Organization | Traesurer - @SBU
 
-------Bridging Machine Intelligence and Human Learning------
+------  Bridging Machine Intelligence and Human Learning   ------
 
 ---
 
