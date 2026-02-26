@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Aishwarya Bhanage
 
-<!--
-**AishwaryaBhanage/AishwaryaBhanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Enhancing AI Systems with Real-World Impact 🚀
 
-Here are some ideas to get you started:
+- 🔭 Currently building **Multimodal & RAG AI systems**
+- 🌱 Learning **advanced LLM and VLM optimization**
+- 👯 Open to collaborate on **GenAI / Applied ML projects**
+- 💬 Ask me about **RAG, LangGraph, Multimodal AI**
+- 🎓 MS Data Science @ Stony Brook University
+- 💼 Ex-Accenture | AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Portfolio
+🔗 https://aishwaryabhanage.github.io/
+
+---
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/aishwaryabhanage)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AishwaryaBhanage)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,gcp,postgres,mongodb,react,git,linux" />
+</p>
+
+---
+
+⭐ Building scalable GenAI systems one pipeline at a time.
